@@ -1,0 +1,2 @@
+# Minecraft-datapacks
+Potato Datapack
