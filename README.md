@@ -1,6 +1,8 @@
 # Minecraft-Datapack
 Potato Datapack
 
+NOTE: In This Folder Take Out The "potato-origin" and place that in the datapacks folder.
+
 Powers:
 
 - Night Vision (+)
