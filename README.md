@@ -1,7 +1,7 @@
 # Minecraft-Datapack
 Potato Datapack
 
-NOTE: In This Folder Take Out The "potato-origin" and place that in the datapacks folder.
+NOTE: !!!Only Install the "potato-origin" by clicking on it. (It will not work if you "Code" download it)!!!
 
 Powers:
 
