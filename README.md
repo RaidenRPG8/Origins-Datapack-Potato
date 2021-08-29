@@ -1,7 +1,7 @@
 # Minecraft-Datapack
 Potato Datapack
 
-NOTE: !!!Only Install the "potato-origin" by clicking on it. (It will not work if you "Code" download it)!!!
+NOTE: !!!Only Install the "potato_origin.zip" by clicking on it. (It will not work if you "Code" download it)!!!
 
 Powers:
 
