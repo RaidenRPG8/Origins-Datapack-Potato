@@ -1,4 +1,4 @@
-# Minecraft-datapacks
+# Minecraft-Datapack
 Potato Datapack
 
 Powers:
